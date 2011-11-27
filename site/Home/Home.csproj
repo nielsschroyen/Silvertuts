@@ -14,6 +14,7 @@
     <AssemblyName>Home</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <UseIISExpress>false</UseIISExpress>
+    <SilverlightApplicationList>{26625408-8C55-4E72-A177-0A4E572A5B41}|..\SilverHome\SilverHome.csproj|ClientBin|False</SilverlightApplicationList>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -56,6 +57,10 @@
     <Content Include="Account\ChangePasswordSuccess.aspx" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
+    <Content Include="ClientBin\SilverHome.xap" />
+    <Content Include="SilverHomeTestPage.aspx" />
+    <Content Include="SilverHomeTestPage.html" />
+    <Content Include="Silverlight.js" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />

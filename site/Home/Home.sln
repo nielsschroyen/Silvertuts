@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home", "Home.csproj", "{EAFA9EF2-7B5B-4EA2-869C-3D7F2DD616E7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{D365096E-6C24-4A8A-BCC1-F0C31062D56A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverHome", "..\SilverHome\SilverHome.csproj", "{26625408-8C55-4E72-A177-0A4E572A5B41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,10 @@ Global
 		{EAFA9EF2-7B5B-4EA2-869C-3D7F2DD616E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAFA9EF2-7B5B-4EA2-869C-3D7F2DD616E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAFA9EF2-7B5B-4EA2-869C-3D7F2DD616E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26625408-8C55-4E72-A177-0A4E572A5B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26625408-8C55-4E72-A177-0A4E572A5B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26625408-8C55-4E72-A177-0A4E572A5B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26625408-8C55-4E72-A177-0A4E572A5B41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

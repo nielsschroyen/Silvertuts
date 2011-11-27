@@ -4,9 +4,21 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    d:DesignHeight="300" d:DesignWidth="400">
+    d:DesignHeight="300" d:DesignWidth="400" Loaded="UserControl_Loaded">
 
     <Grid x:Name="LayoutRoot" Background="White">
-        <TextBlock Text="Niels" />
+        <Grid.Resources>
+            <!-- Animates the rectangle's opacity. -->
+            <Storyboard x:Name="myStoryboard">
+                <DoubleAnimation      
+                
+                    Storyboard.TargetName="mijntextblock"         
+                    Storyboard.TargetProperty="Opacity"        
+                    From="1.0" To="0.0" Duration="0:0:1"         
+                    AutoReverse="True"           
+                    RepeatBehavior="Forever" />
+            </Storyboard>
+        </Grid.Resources>
+        <TextBlock Text="Niels" x:Name="mijntextblock"/>
     </Grid>
 </UserControl>

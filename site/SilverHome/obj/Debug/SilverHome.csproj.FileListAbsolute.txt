@@ -1,0 +1,12 @@
+C:\Users\nisc\Silvertuts\site\SilverHome\Bin\Debug\SilverHome.dll
+C:\Users\nisc\Silvertuts\site\SilverHome\Bin\Debug\SilverHome.pdb
+C:\Users\nisc\Silvertuts\site\SilverHome\Bin\Debug\AppManifest.xaml
+C:\Users\nisc\Silvertuts\site\SilverHome\Bin\Debug\SilverHome.xap
+C:\Users\nisc\Silvertuts\site\SilverHome\Bin\Debug\SilverHomeTestPage.html
+C:\Users\nisc\Silvertuts\site\SilverHome\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nisc\Silvertuts\site\SilverHome\obj\Debug\App.g.i.cs
+C:\Users\nisc\Silvertuts\site\SilverHome\obj\Debug\MainPage.g.i.cs
+C:\Users\nisc\Silvertuts\site\SilverHome\obj\Debug\SilverHome.g.resources
+C:\Users\nisc\Silvertuts\site\SilverHome\obj\Debug\SilverHome.dll
+C:\Users\nisc\Silvertuts\site\SilverHome\obj\Debug\SilverHome.pdb
+C:\Users\nisc\Silvertuts\site\SilverHome\obj\Debug\XapCacheFile.xml
