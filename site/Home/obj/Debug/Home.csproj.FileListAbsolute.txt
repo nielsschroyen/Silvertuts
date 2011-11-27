@@ -1,0 +1,5 @@
+C:\Users\nisc\Silvertuts\site\Home\bin\Home.dll
+C:\Users\nisc\Silvertuts\site\Home\bin\Home.pdb
+C:\Users\nisc\Silvertuts\site\Home\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nisc\Silvertuts\site\Home\obj\Debug\Home.dll
+C:\Users\nisc\Silvertuts\site\Home\obj\Debug\Home.pdb

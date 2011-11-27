@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://nielsschroyen.somee.com/www.nielsschroyen.somee.com/" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="Silvertuts" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="False" userName="nielsschroyen" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/weFC36220exGuK5og9IiQAAAAACAAAAAAADZgAAwAAAABAAAACaVv3K7MOFHWQ/kiiLT+TtAAAAAASAAACgAAAAEAAAAGKrXP0ugDZLDMq5yDe5XVMYAAAAlu6LaILVDmkb4GPGIAuWKP1MoWn6gYS3FAAAAAzT5joAq2Km795TADIAKySxOc4E" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="11/27/2011 21:45:13" />
+    <file relUrl="Site.Master" publishTime="11/27/2011 21:35:50" />
+    <file relUrl="Account/Web.config" publishTime="11/27/2011 21:45:13" />
+    <file relUrl="Account/Register.aspx" publishTime="11/27/2011 21:35:50" />
+    <file relUrl="bin/Home.pdb" publishTime="11/27/2011 21:45:12" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="11/27/2011 21:35:50" />
+    <file relUrl="Account/Login.aspx" publishTime="11/27/2011 21:35:50" />
+    <file relUrl="Styles/Site.css" publishTime="11/27/2011 21:35:50" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="11/27/2011 21:35:50" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="11/27/2011 21:35:50" />
+    <file relUrl="Global.asax" publishTime="11/27/2011 21:35:50" />
+    <file relUrl="bin/Home.dll" publishTime="11/27/2011 21:45:13" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="11/27/2011 21:35:50" />
+    <file relUrl="About.aspx" publishTime="11/27/2011 21:35:50" />
+    <file relUrl="Default.aspx" publishTime="11/27/2011 21:35:50" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="11/27/2011 21:35:50" />
+  </publishProfile>
+</publishData>
